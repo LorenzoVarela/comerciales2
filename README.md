@@ -1,2 +1,2 @@
-# comerciales2
-Presetnación de los datos de los comerciales
+# comerciales
+Visionado de datos de comerciales en python
